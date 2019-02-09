@@ -7,3 +7,19 @@ Boilerplate Web Technology:
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+
+Boilerplate Google Fonts:
+<ul>
+  <li>Poppins</li>
+  <li>Lato</li>
+  <li>Sarabun</li>
+  <li>Staatliches</li>
+  <li>Raleway</li>
+  <li>Open Sans</li>
+</ul>
+
+Boilerplate Web Library:
+<ul>
+  <li>Fontawesome</li>
+  <li>Animation.css</li>
+</ul>
